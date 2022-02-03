@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=F2DBSH2VoHQ
+
+## Pushing to repositories
+
+1. $ git remote add origin https://UserName@github.com/UserName/repo_name.git
+
+e.g.
+$ git remote add origin https://LinCheWei@github.com/LinCheWei/git_vscode_demo.git
+
+2. $ git push -u origin master
+
+## Pulling from repositories
+
